@@ -1,0 +1,81 @@
+.ms-alternating {
+    background-color: #f2f1ed;
+}
+
+div.ASL {
+    text-align: center;
+}
+
+.FAA_red {
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    padding: 3px 0px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.FAA_orange {
+    background-color: #ffa665;
+    text-align: center;
+    color: black;
+    padding: 3px 0px;
+    border-radius: 3px;
+}
+
+.FAA_green {
+    background-color: #a3d179;
+    text-align: center;
+    color: black;
+    padding: 3px 0px;
+    border-radius: 3px;
+}
+
+.FAA_purple {
+    background-color: #495588;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 3px 0px;
+    border-radius: 3px;
+}
+
+.FAA_complete {
+    background-color: transparent;
+    text-align: center;
+    color: transparent;
+    padding: 3px 0px;
+}
+
+.status-warning {
+    background-color: skyblue;
+    text-align: center;
+    padding: 3px 0px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.status-error {
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    padding: 3px 0px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.Mechanics-header {
+    background-color: #d4f0b7;
+}
+
+.IL-header {
+    background-color: #b7e2f0;
+}
+
+.QE-header {
+    background-color: #f0f0b7;
+}
+
+.Sourcing-header{
+    background-color: #f0c5b7;
+}
